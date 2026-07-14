@@ -1,0 +1,714 @@
+City,PublicClosures,CharterClosures,PrivateClosures,Total
+Ada,6.0,0.0,4.0,10.0
+Addison,7.0,0.0,1.0,8.0
+Adrian,21.0,0.0,7.0,28.0
+Akron,1.0,0.0,0.0,1.0
+Alanson,1.0,0.0,0.0,1.0
+Albion,14.0,1.0,2.0,17.0
+Algonac,1.0,1.0,1.0,3.0
+Allegan,13.0,2.0,1.0,16.0
+Allen Park,10.0,0.0,6.0,16.0
+Allendale,8.0,0.0,2.0,10.0
+Alma,9.0,0.0,2.0,11.0
+Almont,4.0,0.0,0.0,4.0
+Alpena,10.0,1.0,5.0,16.0
+Alto,2.0,0.0,0.0,2.0
+Ann Arbor,43.0,6.0,41.0,90.0
+Arcadia,1.0,0.0,0.0,1.0
+Armada,5.0,0.0,2.0,7.0
+Arnold,1.0,0.0,0.0,1.0
+Ashley,3.0,0.0,0.0,3.0
+Athens,2.0,0.0,2.0,4.0
+Atlanta,3.0,0.0,0.0,3.0
+Atlantic Mine,1.0,0.0,0.0,1.0
+Attica,2.0,0.0,1.0,3.0
+Au Gres,3.0,0.0,0.0,3.0
+Auburn,3.0,0.0,3.0,6.0
+Auburn Hills,5.0,0.0,5.0,10.0
+Augusta,2.0,1.0,1.0,4.0
+Avoca,1.0,0.0,0.0,1.0
+Bad Axe,12.0,0.0,0.0,12.0
+Baldwin,6.0,1.0,0.0,7.0
+Bancroft,1.0,0.0,0.0,1.0
+Bangor,7.0,0.0,1.0,8.0
+Baraga,3.0,0.0,0.0,3.0
+Bark River,1.0,0.0,0.0,1.0
+Barryton,1.0,0.0,1.0,2.0
+Bath,3.0,0.0,0.0,3.0
+Battle Creek,50.0,2.0,9.0,61.0
+Bay City,26.0,8.0,16.0,50.0
+Bay Port,1.0,0.0,0.0,1.0
+Bear Lake,2.0,0.0,1.0,3.0
+Beaver Island,1.0,0.0,0.0,1.0
+Beaverton,3.0,1.0,0.0,4.0
+Bedford,1.0,0.0,0.0,1.0
+Belding,7.0,0.0,3.0,10.0
+Bellaire,3.0,0.0,0.0,3.0
+Belleville,10.0,1.0,4.0,15.0
+Bellevue,3.0,0.0,2.0,5.0
+Belmont,1.0,1.0,1.0,3.0
+Benton Habor,1.0,0.0,0.0,1.0
+Benton Harbor,31.0,5.0,7.0,43.0
+Benzonia,4.0,0.0,0.0,4.0
+Bergland,1.0,0.0,0.0,1.0
+Berkley,5.0,0.0,1.0,6.0
+Berrien Sprgs,1.0,0.0,1.0,2.0
+Berrien Springs,8.0,0.0,5.0,13.0
+Bessemer,2.0,0.0,2.0,4.0
+Beverly Hills,4.0,1.0,5.0,10.0
+Big Bay,1.0,0.0,0.0,1.0
+Big Rapids,10.0,2.0,2.0,14.0
+Bingham Farms,1.0,0.0,0.0,1.0
+Birch Run,8.0,0.0,0.0,8.0
+Birmingham,4.0,0.0,5.0,9.0
+Blanchard,3.0,0.0,2.0,5.0
+Blissfield,4.0,0.0,1.0,5.0
+Bloomfield Hills,12.0,0.0,16.0,28.0
+Bloomfield Township,1.0,0.0,0.0,1.0
+Bloomfld Hls,1.0,0.0,1.0,2.0
+Bloomingdale,6.0,0.0,0.0,6.0
+Boon,1.0,0.0,0.0,1.0
+Boyne City,4.0,1.0,0.0,5.0
+Boyne Falls,3.0,0.0,0.0,3.0
+Breckenridge,4.0,0.0,1.0,5.0
+Brethren,4.0,0.0,0.0,4.0
+Bridgeport,3.0,0.0,2.0,5.0
+Bridgman,4.0,0.0,1.0,5.0
+Brighton,13.0,4.0,7.0,24.0
+Brimley,2.0,1.0,0.0,3.0
+Britton,2.0,0.0,0.0,2.0
+Brockway,0.0,0.0,1.0,1.0
+Brohman,0.0,0.0,1.0,1.0
+Bronson,4.0,0.0,2.0,6.0
+Brooklyn,3.0,0.0,2.0,5.0
+Brown City,5.0,0.0,0.0,5.0
+Brownstown,3.0,0.0,1.0,4.0
+Brownstown Twp,1.0,0.0,0.0,1.0
+Bruce Twp,1.0,0.0,0.0,1.0
+Buchanan,7.0,0.0,1.0,8.0
+Buckley,1.0,0.0,0.0,1.0
+Burr Oak,3.0,0.0,0.0,3.0
+Burt,1.0,0.0,0.0,1.0
+Burt Lake,0.0,0.0,1.0,1.0
+Burton,15.0,3.0,8.0,26.0
+Byron,3.0,0.0,0.0,3.0
+Byron Center,7.0,2.0,4.0,13.0
+Cadillac,10.0,0.0,3.0,13.0
+Caledonia,11.0,1.0,4.0,16.0
+Calumet,5.0,1.0,2.0,8.0
+Camden,4.0,0.0,3.0,7.0
+Canton,16.0,5.0,8.0,29.0
+Capac,3.0,0.0,0.0,3.0
+Carleton,9.0,0.0,2.0,11.0
+Carney,1.0,0.0,0.0,1.0
+Caro,8.0,0.0,1.0,9.0
+Carrollton,1.0,0.0,0.0,1.0
+Carson City,4.0,0.0,2.0,6.0
+Carsonville,3.0,0.0,0.0,3.0
+Casco,1.0,0.0,0.0,1.0
+Caseville,3.0,0.0,0.0,3.0
+Cass City,3.0,0.0,1.0,4.0
+Cassopolis,6.0,0.0,1.0,7.0
+Cedar Lake,0.0,0.0,2.0,2.0
+Cedar Springs,11.0,2.0,1.0,14.0
+Cedarville,3.0,0.0,0.0,3.0
+Cement City,1.0,0.0,0.0,1.0
+Center Line,5.0,2.0,2.0,9.0
+Central Lake,2.0,0.0,1.0,3.0
+Centreville,4.0,0.0,0.0,4.0
+Charlevoix,6.0,2.0,2.0,10.0
+Charlotte,15.0,0.0,4.0,19.0
+Chassell,1.0,0.0,1.0,2.0
+Cheboygan,9.0,0.0,3.0,12.0
+Chelsea,5.0,0.0,1.0,6.0
+Chesaning,4.0,0.0,2.0,6.0
+Chesterfield,10.0,0.0,2.0,12.0
+China,1.0,0.0,0.0,1.0
+Clare,5.0,0.0,5.0,10.0
+Clarklake,2.0,0.0,1.0,3.0
+Clarkston,11.0,0.0,6.0,17.0
+Clarksville,1.0,0.0,0.0,1.0
+Clawson,5.0,0.0,2.0,7.0
+Clay,6.0,0.0,0.0,6.0
+Climax,3.0,0.0,0.0,3.0
+Clinton,7.0,0.0,0.0,7.0
+Clinton Township,13.0,3.0,4.0,20.0
+Clinton Twp,15.0,1.0,2.0,18.0
+Clio,7.0,0.0,0.0,7.0
+Coldwater,12.0,1.0,4.0,17.0
+Coleman,3.0,0.0,1.0,4.0
+Coloma,5.0,0.0,1.0,6.0
+Colon,3.0,0.0,0.0,3.0
+Commerce Township,10.0,0.0,0.0,10.0
+Commerce Twp,2.0,0.0,0.0,2.0
+Comstock Park,7.0,0.0,1.0,8.0
+Concord,4.0,0.0,0.0,4.0
+Conklin,0.0,0.0,2.0,2.0
+Constantine,5.0,0.0,0.0,5.0
+Cooks,1.0,0.0,0.0,1.0
+Coopersville,6.0,0.0,3.0,9.0
+Copper Harbor,1.0,0.0,0.0,1.0
+Coral,0.0,0.0,1.0,1.0
+Corunna,5.0,0.0,0.0,5.0
+Covert,3.0,0.0,0.0,3.0
+Croswell,6.0,0.0,0.0,6.0
+Crystal,1.0,0.0,0.0,1.0
+Crystal Falls,2.0,0.0,0.0,2.0
+Curtis,1.0,1.0,0.0,2.0
+Custer,2.0,0.0,0.0,2.0
+Dafter,1.0,0.0,0.0,1.0
+Daggett,1.0,0.0,0.0,1.0
+Dansville,3.0,0.0,0.0,3.0
+Davisburg,2.0,0.0,0.0,2.0
+Davison,9.0,0.0,2.0,11.0
+De Tour Village,0.0,1.0,0.0,1.0
+Dearborn,38.0,10.0,15.0,63.0
+Dearborn Heights,23.0,6.0,10.0,39.0
+Dearborn Hts,0.0,0.0,3.0,3.0
+"Dearborn, Hts",1.0,0.0,0.0,1.0
+Decatur,4.0,0.0,0.0,4.0
+Decker,0.0,0.0,1.0,1.0
+Deckerville,2.0,0.0,0.0,2.0
+Deerfield,2.0,0.0,0.0,2.0
+Deerton,1.0,0.0,0.0,1.0
+Deford,1.0,0.0,1.0,2.0
+Delton,4.0,0.0,1.0,5.0
+Detour Village,2.0,0.0,0.0,2.0
+Detroit,340.0,176.0,124.0,640.0
+Dewitt,5.0,0.0,0.0,5.0
+Dexter,8.0,0.0,2.0,10.0
+Dimondale,1.0,0.0,0.0,1.0
+Dollar Bay,3.0,0.0,0.0,3.0
+Dorr,2.0,0.0,1.0,3.0
+Douglas,1.0,0.0,1.0,2.0
+Dowagiac,10.0,0.0,3.0,13.0
+Drummond Island,1.0,0.0,0.0,1.0
+Dryden,2.0,0.0,0.0,2.0
+Dundee,4.0,0.0,2.0,6.0
+Durand,4.0,0.0,1.0,5.0
+Dutton,0.0,0.0,1.0,1.0
+Eagle,1.0,0.0,1.0,2.0
+East Detroit,0.0,0.0,3.0,3.0
+East Jordan,4.0,1.0,0.0,5.0
+East Lansing,11.0,3.0,6.0,20.0
+East Leroy,1.0,0.0,0.0,1.0
+East Tawas,0.0,1.0,1.0,2.0
+Eastpointe,17.0,1.0,3.0,21.0
+Eaton Rapids,9.0,1.0,2.0,12.0
+Eau Claire,4.0,0.0,2.0,6.0
+Eben Junction,1.0,0.0,0.0,1.0
+Ecorse,8.0,1.0,1.0,10.0
+Edenville,0.0,0.0,2.0,2.0
+Edmore,1.0,0.0,0.0,1.0
+Edwardsburg,7.0,0.0,1.0,8.0
+Elk Rapids,4.0,0.0,0.0,4.0
+Elkton,1.0,0.0,0.0,1.0
+Ellsworth,1.0,0.0,1.0,2.0
+Elmira,2.0,0.0,0.0,2.0
+Elsie,5.0,1.0,0.0,6.0
+Emmett,1.0,0.0,0.0,1.0
+Empire,0.0,0.0,1.0,1.0
+Engadine,3.0,0.0,0.0,3.0
+Erie,6.0,0.0,1.0,7.0
+Escanaba,13.0,0.0,4.0,17.0
+Essexville,7.0,1.0,2.0,10.0
+Eureka,0.0,0.0,1.0,1.0
+Evart,6.0,0.0,2.0,8.0
+Ewen,1.0,0.0,0.0,1.0
+Fair Haven,0.0,0.0,1.0,1.0
+Fairgrove,2.0,0.0,0.0,2.0
+Fairview,2.0,0.0,0.0,2.0
+Farmingtn Hls,2.0,0.0,1.0,3.0
+Farmington,6.0,0.0,2.0,8.0
+Farmington Hills,19.0,3.0,13.0,35.0
+Farwell,5.0,0.0,0.0,5.0
+Felch,1.0,0.0,0.0,1.0
+Fennville,5.0,2.0,1.0,8.0
+Fenton,11.0,0.0,3.0,14.0
+Fenwick,1.0,0.0,0.0,1.0
+Ferndale,14.0,1.0,0.0,15.0
+Fife Lake,4.0,0.0,0.0,4.0
+Filion,1.0,0.0,0.0,1.0
+Flat Rock,8.0,3.0,1.0,12.0
+Flint,106.0,19.0,22.0,147.0
+Flushing,8.0,0.0,3.0,11.0
+Fort Gratiot,3.0,0.0,0.0,3.0
+Fowler,2.0,0.0,1.0,3.0
+Fowlerville,8.0,0.0,2.0,10.0
+Frankenmuth,4.0,0.0,1.0,5.0
+Frankfort,2.0,0.0,0.0,2.0
+Franklin,0.0,0.0,2.0,2.0
+Fraser,5.0,1.0,2.0,8.0
+Frederic,1.0,0.0,0.0,1.0
+Free Soil,2.0,0.0,0.0,2.0
+Freeland,3.0,0.0,0.0,3.0
+Fremont,7.0,0.0,5.0,12.0
+Fruitport,6.0,0.0,2.0,8.0
+Gaines,1.0,0.0,0.0,1.0
+Galesburg,3.0,0.0,0.0,3.0
+Galien,3.0,0.0,0.0,3.0
+Garden City,13.0,2.0,5.0,20.0
+Gaylord,7.0,0.0,6.0,13.0
+Genesee,2.0,0.0,0.0,2.0
+Gibraltar,1.0,0.0,0.0,1.0
+Gladstone,7.0,0.0,0.0,7.0
+Gladwin,5.0,0.0,5.0,10.0
+Glen Arbor,0.0,0.0,1.0,1.0
+Glenn,1.0,0.0,0.0,1.0
+Glennie,1.0,0.0,0.0,1.0
+Gobles,3.0,1.0,1.0,5.0
+Goodrich,4.0,0.0,0.0,4.0
+Grand Blanc,14.0,3.0,3.0,20.0
+Grand Haven,14.0,0.0,3.0,17.0
+Grand Ledge,14.0,1.0,2.0,17.0
+Grand Marais,1.0,0.0,0.0,1.0
+Grand Rapids,209.0,31.0,56.0,296.0
+Grandville,9.0,0.0,3.0,12.0
+Grant,6.0,0.0,1.0,7.0
+Grass Lake,3.0,0.0,1.0,4.0
+Grayling,7.0,0.0,2.0,9.0
+Greenbush,0.0,0.0,1.0,1.0
+Greenville,10.0,2.0,2.0,14.0
+Gregory,1.0,0.0,0.0,1.0
+Grosse Ile,4.0,0.0,1.0,5.0
+Grosse Pointe,1.0,0.0,1.0,2.0
+Grosse Pointe Farms,4.0,0.0,6.0,10.0
+Grosse Pointe Park,3.0,0.0,2.0,5.0
+Grosse Pointe Woods,6.0,0.0,2.0,8.0
+Gwinn,5.0,0.0,1.0,6.0
+Hadley,1.0,0.0,0.0,1.0
+Hale,5.0,0.0,4.0,9.0
+Hamburg,1.0,0.0,0.0,1.0
+Hamilton,6.0,0.0,0.0,6.0
+Hamtramck,9.0,8.0,5.0,22.0
+Hancock,4.0,0.0,0.0,4.0
+Hanover,1.0,0.0,1.0,2.0
+Harbor Beach,5.0,0.0,2.0,7.0
+Harbor Spgs,2.0,0.0,0.0,2.0
+Harbor Springs,2.0,0.0,1.0,3.0
+Harper Woods,9.0,7.0,5.0,21.0
+Harris,2.0,0.0,0.0,2.0
+Harrison,8.0,0.0,0.0,8.0
+Harrison Township,8.0,0.0,0.0,8.0
+Harrisville,2.0,0.0,0.0,2.0
+Harsens Island,1.0,0.0,0.0,1.0
+Hart,6.0,1.0,1.0,8.0
+Hartford,8.0,0.0,0.0,8.0
+Hartland,5.0,0.0,1.0,6.0
+Haslett,6.0,0.0,1.0,7.0
+Hastings,10.0,1.0,4.0,15.0
+Hazel Park,25.0,1.0,2.0,28.0
+Hemlock,6.0,0.0,3.0,9.0
+Hermansville,1.0,0.0,0.0,1.0
+Herron,1.0,0.0,0.0,1.0
+Hersey,2.0,1.0,0.0,3.0
+Hesperia,4.0,0.0,0.0,4.0
+Hickory Corners,1.0,0.0,0.0,1.0
+Highland,7.0,0.0,1.0,8.0
+Highland Park,9.0,13.0,2.0,24.0
+Hillman,2.0,0.0,1.0,3.0
+Hillsdale,10.0,2.0,2.0,14.0
+Holland,44.0,6.0,13.0,63.0
+Holly,6.0,1.0,1.0,8.0
+Holt,12.0,0.0,3.0,15.0
+Holton,4.0,0.0,1.0,5.0
+Homer,4.0,0.0,1.0,5.0
+Honor,1.0,0.0,0.0,1.0
+Hopkins,4.0,0.0,1.0,5.0
+Horton,3.0,0.0,0.0,3.0
+Houghton,3.0,0.0,0.0,3.0
+Houghton Lake,4.0,0.0,0.0,4.0
+Howard City,2.0,0.0,0.0,2.0
+Howell,15.0,1.0,3.0,19.0
+Hubbard Lake,1.0,0.0,0.0,1.0
+Hubbardston,1.0,0.0,0.0,1.0
+Hudson,4.0,0.0,2.0,6.0
+Hudsonville,16.0,0.0,7.0,23.0
+Huntington Woods,1.0,0.0,1.0,2.0
+Ida,3.0,0.0,0.0,3.0
+Imlay City,5.0,0.0,1.0,6.0
+Indian River,5.0,0.0,0.0,5.0
+Inkster,12.0,10.0,3.0,25.0
+Interlochen,2.0,0.0,3.0,5.0
+Ionia,15.0,0.0,3.0,18.0
+Ira,6.0,0.0,1.0,7.0
+Iron Mountain,7.0,0.0,2.0,9.0
+Iron River,6.0,0.0,1.0,7.0
+Ironwood,5.0,0.0,1.0,6.0
+Ishpeming,9.0,0.0,1.0,10.0
+Ithaca,5.0,0.0,2.0,7.0
+Jackson,39.0,7.0,14.0,60.0
+Jenison,10.0,0.0,2.0,12.0
+Johannesburg,2.0,0.0,0.0,2.0
+Jonesville,5.0,0.0,3.0,8.0
+Kalamazoo,54.0,10.0,23.0,87.0
+Kaleva,1.0,0.0,1.0,2.0
+Kalkaska,6.0,0.0,1.0,7.0
+Kawkawlin,0.0,0.0,2.0,2.0
+Keego Harbor,0.0,0.0,1.0,1.0
+Kent City,5.0,0.0,1.0,6.0
+Kentwood,2.0,1.0,2.0,5.0
+Kimball,3.0,1.0,1.0,5.0
+Kincheloe,3.0,0.0,0.0,3.0
+Kinde,2.0,0.0,0.0,2.0
+Kingsford,4.0,0.0,0.0,4.0
+Kingsley,3.0,0.0,1.0,4.0
+Kingston,3.0,0.0,0.0,3.0
+Kinross,0.0,0.0,1.0,1.0
+L'Anse,2.0,0.0,0.0,2.0
+Lachine,1.0,0.0,1.0,2.0
+Laingsburg,3.0,0.0,1.0,4.0
+Lake City,5.0,0.0,0.0,5.0
+Lake Leelanau,1.0,1.0,2.0,4.0
+Lake Linden,2.0,0.0,0.0,2.0
+Lake Odessa,2.0,0.0,3.0,5.0
+Lake Orion,13.0,0.0,6.0,19.0
+Lakeland,1.0,1.0,0.0,2.0
+Lakeport,1.0,0.0,1.0,2.0
+Lakeview,4.0,0.0,2.0,6.0
+Lambertville,2.0,1.0,2.0,5.0
+Lanse,2.0,0.0,1.0,3.0
+Lansing,72.0,13.0,24.0,109.0
+Lapeer,15.0,1.0,2.0,18.0
+Lathrup Village,4.0,1.0,1.0,6.0
+Lawrence,6.0,0.0,0.0,6.0
+Lawton,4.0,0.0,0.0,4.0
+Leland,1.0,0.0,0.0,1.0
+Lennon,1.0,0.0,0.0,1.0
+Leonard,2.0,0.0,0.0,2.0
+Leonidas,1.0,0.0,0.0,1.0
+Leroy,3.0,0.0,0.0,3.0
+Leslie,4.0,1.0,1.0,6.0
+Lewiston,1.0,0.0,0.0,1.0
+Lexington,1.0,0.0,0.0,1.0
+Lincoln,2.0,0.0,0.0,2.0
+Lincoln Park,12.0,0.0,4.0,16.0
+Linden,6.0,0.0,0.0,6.0
+Linwood,1.0,0.0,1.0,2.0
+Litchfield,2.0,0.0,0.0,2.0
+Livonia,35.0,7.0,15.0,57.0
+Lowell,6.0,0.0,1.0,7.0
+Ludington,11.0,0.0,3.0,14.0
+Lupton,0.0,0.0,1.0,1.0
+Luther,1.0,0.0,0.0,1.0
+Mackinac Island,1.0,0.0,0.0,1.0
+Mackinaw City,1.0,0.0,0.0,1.0
+Macomb,15.0,0.0,5.0,20.0
+Madison Heights,18.0,2.0,3.0,23.0
+Madison Hts,1.0,1.0,0.0,2.0
+Mancelona,3.0,0.0,1.0,4.0
+Manchester,4.0,0.0,1.0,5.0
+Manistee,11.0,4.0,2.0,17.0
+Manistique,6.0,0.0,2.0,8.0
+Manitou Beach,0.0,0.0,1.0,1.0
+Manton,4.0,0.0,1.0,5.0
+Maple City,2.0,0.0,1.0,3.0
+Marcellus,5.0,0.0,1.0,6.0
+Marenisco,1.0,0.0,0.0,1.0
+Marine City,6.0,0.0,3.0,9.0
+Marion,3.0,0.0,1.0,4.0
+Marlette,5.0,0.0,1.0,6.0
+Marne,1.0,0.0,1.0,2.0
+Marquette,14.0,2.0,4.0,20.0
+Marshall,10.0,1.0,1.0,12.0
+Martin,2.0,0.0,2.0,4.0
+Marysville,7.0,3.0,1.0,11.0
+Mason,17.0,0.0,3.0,20.0
+Mattawan,6.0,0.0,1.0,7.0
+Mayville,3.0,0.0,1.0,4.0
+Mc Bain,4.0,0.0,1.0,5.0
+Mears,1.0,0.0,0.0,1.0
+Mecosta,1.0,0.0,0.0,1.0
+Melvindale,6.0,2.0,1.0,9.0
+Memphis,4.0,0.0,0.0,4.0
+Mendon,2.0,0.0,1.0,3.0
+Menominee,10.0,0.0,1.0,11.0
+Merrill,4.0,0.0,0.0,4.0
+Merritt,1.0,0.0,0.0,1.0
+Mesick,4.0,1.0,0.0,5.0
+Metamora,1.0,0.0,0.0,1.0
+Mi,1.0,0.0,0.0,1.0
+Michigan Center,4.0,0.0,1.0,5.0
+Middleton,4.0,0.0,0.0,4.0
+Middleville,5.0,0.0,0.0,5.0
+Midland,27.0,4.0,11.0,42.0
+Milan,5.0,0.0,1.0,6.0
+Milford,4.0,0.0,2.0,6.0
+Millersburg,1.0,0.0,0.0,1.0
+Millington,7.0,0.0,1.0,8.0
+Mio,2.0,0.0,2.0,4.0
+Mohawk,2.0,0.0,0.0,2.0
+Moline,1.0,0.0,1.0,2.0
+Monroe,26.0,1.0,10.0,37.0
+Montague,4.0,0.0,1.0,5.0
+Montgomery,0.0,0.0,1.0,1.0
+Montrose,4.0,0.0,0.0,4.0
+Morenci,5.0,0.0,0.0,5.0
+Morley,4.0,0.0,1.0,5.0
+Morrice,4.0,0.0,0.0,4.0
+Mount Clemens,10.0,2.0,2.0,14.0
+Mount Morris,8.0,0.0,1.0,9.0
+Mount Pleasant,12.0,1.0,5.0,18.0
+Mt Pleasant,2.0,0.0,2.0,4.0
+Mt. Clemens,6.0,0.0,3.0,9.0
+Mt. Morris,0.0,0.0,1.0,1.0
+Mt. Pleasant,0.0,0.0,1.0,1.0
+Muir,1.0,0.0,0.0,1.0
+Mulliken,1.0,0.0,0.0,1.0
+Munising,3.0,0.0,1.0,4.0
+Munith,1.0,0.0,0.0,1.0
+Muskegon,62.0,12.0,12.0,86.0
+Muskegon Heights,1.0,3.0,1.0,5.0
+Muskegon Hts,0.0,0.0,1.0,1.0
+Mussey,2.0,0.0,0.0,2.0
+Napoleon,4.0,0.0,1.0,5.0
+Nashville,1.0,0.0,0.0,1.0
+Negaunee,3.0,0.0,1.0,4.0
+New Baltimore,3.0,0.0,0.0,3.0
+New Boston,6.0,0.0,2.0,8.0
+New Buffalo,3.0,0.0,1.0,4.0
+New Era,1.0,0.0,1.0,2.0
+New Haven,8.0,1.0,1.0,10.0
+New Hudson,1.0,0.0,1.0,2.0
+New Lothrop,2.0,0.0,0.0,2.0
+Newaygo,6.0,0.0,0.0,6.0
+Newberry,3.0,0.0,1.0,4.0
+Newport,4.0,0.0,2.0,6.0
+Niles,20.0,0.0,2.0,22.0
+North Adams,2.0,0.0,0.0,2.0
+North Branch,6.0,0.0,2.0,8.0
+North Muskegon,1.0,0.0,0.0,1.0
+Northport,1.0,0.0,1.0,2.0
+Northville,11.0,0.0,5.0,16.0
+Norton Shores,0.0,1.0,0.0,1.0
+Norway,3.0,0.0,1.0,4.0
+Nottawa,0.0,0.0,1.0,1.0
+Novi,15.0,0.0,6.0,21.0
+Nunica,0.0,0.0,1.0,1.0
+Oak Park,17.0,7.0,9.0,33.0
+Oakland,2.0,0.0,1.0,3.0
+Oakley,1.0,0.0,1.0,2.0
+Okemos,9.0,3.0,2.0,14.0
+Olivet,3.0,0.0,0.0,3.0
+Onaway,4.0,1.0,1.0,6.0
+Onekama,2.0,0.0,0.0,2.0
+Onondaga,1.0,0.0,0.0,1.0
+Onsted,6.0,0.0,0.0,6.0
+Ontonagon,3.0,0.0,0.0,3.0
+Orchard Lake,3.0,0.0,3.0,6.0
+Orleans,0.0,1.0,0.0,1.0
+Ortonville,8.0,0.0,0.0,8.0
+Oscoda,5.0,0.0,1.0,6.0
+Osseo,0.0,0.0,1.0,1.0
+Ossineke,1.0,0.0,0.0,1.0
+Otisville,9.0,0.0,0.0,9.0
+Otsego,5.0,0.0,3.0,8.0
+Ottawa Lake,3.0,0.0,0.0,3.0
+Ovid,2.0,0.0,2.0,4.0
+Owendale,2.0,0.0,0.0,2.0
+Owosso,10.0,0.0,7.0,17.0
+Oxford,13.0,2.0,4.0,19.0
+Painesdale,1.0,0.0,0.0,1.0
+Palmer,1.0,0.0,0.0,1.0
+Palo,1.0,0.0,0.0,1.0
+Paradise,1.0,0.0,0.0,1.0
+Parchment,0.0,0.0,1.0,1.0
+Paris,1.0,0.0,1.0,2.0
+Parma,4.0,0.0,0.0,4.0
+Paw Paw,7.0,0.0,2.0,9.0
+Peck,2.0,0.0,0.0,2.0
+Pellston,3.0,0.0,0.0,3.0
+Pentwater,2.0,0.0,0.0,2.0
+Perry,5.0,0.0,0.0,5.0
+Petersburg,3.0,0.0,1.0,4.0
+Petoskey,7.0,2.0,3.0,12.0
+Pewamo,1.0,0.0,1.0,2.0
+Pickford,2.0,0.0,0.0,2.0
+Pierson,1.0,0.0,0.0,1.0
+Pigeon,4.0,0.0,2.0,6.0
+Pinckney,8.0,1.0,1.0,10.0
+Pinconning,5.0,0.0,2.0,7.0
+Pittsford,2.0,0.0,2.0,4.0
+Plainwell,7.0,0.0,0.0,7.0
+Pleasant Lake,0.0,0.0,1.0,1.0
+Plymouth,16.0,4.0,10.0,30.0
+Pointe Aux Pins,1.0,0.0,0.0,1.0
+Pontiac,36.0,11.0,8.0,55.0
+Port Hope,1.0,0.0,1.0,2.0
+Port Huron,15.0,4.0,4.0,23.0
+Portage,19.0,1.0,5.0,25.0
+Portland,5.0,0.0,1.0,6.0
+Posen,2.0,0.0,0.0,2.0
+Potterville,4.0,0.0,0.0,4.0
+Powers,4.0,0.0,0.0,4.0
+Prudenville,1.0,0.0,1.0,2.0
+Quincy,3.0,0.0,1.0,4.0
+Rapid City,1.0,0.0,0.0,1.0
+Rapid River,2.0,0.0,0.0,2.0
+Ravenna,3.0,0.0,1.0,4.0
+Ray Twp.,0.0,0.0,1.0,1.0
+Reading,2.0,0.0,1.0,3.0
+Redford,25.0,11.0,12.0,48.0
+Reed City,5.0,0.0,2.0,7.0
+Reese,3.0,0.0,2.0,5.0
+Remus,5.0,0.0,1.0,6.0
+Republic,1.0,0.0,0.0,1.0
+Richland,8.0,0.0,2.0,10.0
+Richmond,3.0,0.0,2.0,5.0
+Richville,0.0,0.0,1.0,1.0
+River Rouge,14.0,0.0,0.0,14.0
+Riverview,6.0,0.0,5.0,11.0
+Rochester,3.0,0.0,4.0,7.0
+Rochester Hills,20.0,0.0,7.0,27.0
+Rochester Hls,4.0,0.0,3.0,7.0
+Rock,1.0,0.0,0.0,1.0
+Rockford,14.0,0.0,4.0,18.0
+Rockwood,5.0,0.0,3.0,8.0
+Rogers City,3.0,1.0,3.0,7.0
+Romeo,2.0,0.0,3.0,5.0
+Romulus,13.0,4.0,2.0,19.0
+Roscommon,5.0,0.0,2.0,7.0
+Rosebush,1.0,0.0,3.0,4.0
+Roseville,18.0,6.0,3.0,27.0
+Rothbury,1.0,0.0,0.0,1.0
+Royal Oak,18.0,0.0,8.0,26.0
+Rudyard,3.0,0.0,1.0,4.0
+Ruth,0.0,0.0,1.0,1.0
+Saginaw,75.0,13.0,25.0,113.0
+Saint Charles,5.0,0.0,0.0,5.0
+Saint Clair,4.0,0.0,2.0,6.0
+Saint Clair Shores,16.0,0.0,4.0,20.0
+Saint Helen,1.0,1.0,0.0,2.0
+Saint Ignace,5.0,0.0,0.0,5.0
+Saint Johns,10.0,0.0,2.0,12.0
+Saint Joseph,7.0,0.0,5.0,12.0
+Saint Louis,4.0,0.0,0.0,4.0
+Saline,8.0,0.0,4.0,12.0
+Sand Creek,2.0,0.0,0.0,2.0
+Sand Lake,3.0,0.0,0.0,3.0
+Sandusky,5.0,0.0,1.0,6.0
+Sanford,5.0,0.0,0.0,5.0
+Saranac,3.0,0.0,0.0,3.0
+Saugatuck,2.0,0.0,0.0,2.0
+Sault S Marie,3.0,1.0,0.0,4.0
+Sault Sainte Marie,3.0,1.0,1.0,5.0
+Sault Ste. Marie,2.0,0.0,1.0,3.0
+Sawyer,1.0,0.0,2.0,3.0
+Schoolcraft,4.0,0.0,0.0,4.0
+Scotts,2.0,0.0,1.0,3.0
+Scottville,7.0,1.0,1.0,9.0
+Sebewaing,2.0,0.0,3.0,5.0
+Shelby,6.0,0.0,0.0,6.0
+Shelby Township,13.0,0.0,1.0,14.0
+Shepherd,3.0,2.0,1.0,6.0
+Sheridan,1.0,0.0,2.0,3.0
+Sidney,1.0,0.0,0.0,1.0
+Six Lakes,1.0,0.0,0.0,1.0
+Skanee,1.0,0.0,0.0,1.0
+Snover,0.0,0.0,1.0,1.0
+Sodus,1.0,0.0,1.0,2.0
+South Boardman,0.0,0.0,1.0,1.0
+South Haven,8.0,0.0,2.0,10.0
+South Lyon,11.0,0.0,0.0,11.0
+South Range,1.0,0.0,0.0,1.0
+South Rockwood,1.0,0.0,0.0,1.0
+Southfield,23.0,14.0,16.0,53.0
+Southgate,15.0,1.0,6.0,22.0
+Sparta,6.0,0.0,0.0,6.0
+Spring Arbor,2.0,0.0,0.0,2.0
+Spring Lake,8.0,2.0,1.0,11.0
+Springfield,2.0,2.0,0.0,4.0
+Springport,3.0,0.0,0.0,3.0
+St Clr Shores,1.0,0.0,0.0,1.0
+St. Charles,2.0,0.0,1.0,3.0
+St. Clair Shores,1.0,0.0,5.0,6.0
+St. Helen,1.0,0.0,0.0,1.0
+St. Johns,1.0,0.0,3.0,4.0
+St. Joseph,1.0,0.0,0.0,1.0
+St. Louis,1.0,0.0,0.0,1.0
+Standish,4.0,0.0,0.0,4.0
+Stanton,7.0,0.0,0.0,7.0
+Stanwood,1.0,0.0,0.0,1.0
+Stephenson,3.0,1.0,0.0,4.0
+Sterling,1.0,0.0,0.0,1.0
+Sterling Heights,39.0,1.0,3.0,43.0
+Sterling Hts,6.0,1.0,0.0,7.0
+Stevensville,5.0,0.0,2.0,7.0
+Stockbridge,5.0,0.0,1.0,6.0
+Sturgis,11.0,0.0,7.0,18.0
+Sunfield,1.0,0.0,0.0,1.0
+Suttons Bay,7.0,0.0,1.0,8.0
+Swartz Creek,8.0,0.0,3.0,11.0
+Tawas City,5.0,1.0,1.0,7.0
+Taylor,21.0,4.0,9.0,34.0
+Tecumseh,11.0,0.0,2.0,13.0
+Tekonsha,3.0,0.0,0.0,3.0
+Temperance,5.0,0.0,2.0,7.0
+Thompsonville,1.0,0.0,0.0,1.0
+Three Oaks,4.0,0.0,0.0,4.0
+Three Rivers,9.0,0.0,2.0,11.0
+Toivola,1.0,0.0,0.0,1.0
+Traverse City,33.0,5.0,14.0,52.0
+Travse City,0.0,1.0,0.0,1.0
+Trenton,6.0,0.0,2.0,8.0
+Troy,23.0,1.0,15.0,39.0
+Trufant,1.0,0.0,0.0,1.0
+Tustin,1.0,0.0,0.0,1.0
+Twin Lake,1.0,0.0,0.0,1.0
+Twining,2.0,0.0,0.0,2.0
+Ubly,2.0,0.0,0.0,2.0
+Union,1.0,0.0,0.0,1.0
+Union City,5.0,0.0,0.0,5.0
+Unionville,1.0,0.0,2.0,3.0
+Utica,4.0,0.0,3.0,7.0
+Vandalia,0.0,0.0,2.0,2.0
+Vanderbilt,2.0,0.0,1.0,3.0
+Vassar,5.0,0.0,3.0,8.0
+Vermontville,5.0,0.0,1.0,6.0
+Vernon,2.0,0.0,0.0,2.0
+Vestaburg,6.0,1.0,1.0,8.0
+Vicksburg,5.0,0.0,1.0,6.0
+W Bloomfield,3.0,0.0,0.0,3.0
+Wakefield,2.0,0.0,0.0,2.0
+Waldron,3.0,0.0,0.0,3.0
+Walkerville,5.0,0.0,0.0,5.0
+Wallace,1.0,0.0,0.0,1.0
+Walled Lake,3.0,0.0,5.0,8.0
+Warren,49.0,12.0,16.0,77.0
+Washington,5.0,0.0,2.0,7.0
+Waterford,26.0,6.0,10.0,42.0
+Watersmeet,1.0,0.0,0.0,1.0
+Watervliet,5.0,0.0,2.0,7.0
+Wayland,6.0,0.0,1.0,7.0
+Wayne,9.0,1.0,6.0,16.0
+Webberville,3.0,0.0,0.0,3.0
+Weidman,1.0,0.0,0.0,1.0
+Wells,1.0,0.0,0.0,1.0
+Wellston,1.0,0.0,0.0,1.0
+West Bloomfield,14.0,0.0,5.0,19.0
+West Branch,7.0,1.0,4.0,12.0
+West Olive,1.0,1.0,0.0,2.0
+Westland,21.0,5.0,7.0,33.0
+Westphalia,3.0,0.0,1.0,4.0
+Wetmore,0.0,0.0,1.0,1.0
+White Cloud,4.0,0.0,0.0,4.0
+White Lake,7.0,0.0,1.0,8.0
+White Pigeon,3.0,0.0,0.0,3.0
+White Pine,2.0,0.0,0.0,2.0
+Whitehall,6.0,0.0,0.0,6.0
+Whitmore Lake,6.0,1.0,2.0,9.0
+Whittemore,5.0,0.0,0.0,5.0
+Williamsburg,2.0,1.0,0.0,3.0
+Williamston,4.0,0.0,3.0,7.0
+Willis,0.0,0.0,1.0,1.0
+Wilson,0.0,1.0,1.0,2.0
+Winn,2.0,0.0,0.0,2.0
+Wixom,4.0,0.0,2.0,6.0
+Wolverine,2.0,0.0,0.0,2.0
+Woodhaven,5.0,0.0,0.0,5.0
+Woodland,4.0,0.0,0.0,4.0
+Wyandotte,11.0,0.0,6.0,17.0
+Wyoming,26.0,2.0,16.0,44.0
+Yale,4.0,0.0,0.0,4.0
+Ypsilanti,49.0,12.0,11.0,72.0
+Zeeland,14.0,2.0,3.0,19.0
